@@ -80,7 +80,7 @@ export default {
     <tr>
       <td class="border" style="text-align: center;width: 400px"><strong>Kode Kategori</strong></td>
       <td class="border" style="text-align: center;width: 400px"><strong>Kategori</strong></td>
-      <td class="border" style="text-align: center;width: 400px"><strong>Aksi</strong></td>
+      <td class="border" style="text-align: center;width: 500px"><strong>Aksi</strong></td>
     </tr>
     </thead>
     <tbody>
