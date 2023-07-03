@@ -100,7 +100,7 @@ export default {
       <td class="border" style="text-align: center;width: 400px"><strong>Penerbit</strong></td>
       <td class="border" style="text-align: center;width: 100px"><strong>Tahun</strong></td>
       <td class="border" style="text-align: center;width: 150px"><strong>Harga</strong></td>
-      <td class="border" style="text-align: center;width: 315px"><strong>Aksi</strong></td>
+      <td class="border" style="text-align: center;width: 400px"><strong>Aksi</strong></td>
     </tr>
     </thead>
     <tbody>
